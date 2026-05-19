@@ -1,1 +1,2 @@
-#SCT_WD_1
+# SCT_WD_1
+SkillCraft Technology Web Development Internship Task 1
